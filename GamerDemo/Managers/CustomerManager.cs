@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GamerDemo
 {
-    class GamerManager
+    class CustomerManager
     {
 
 

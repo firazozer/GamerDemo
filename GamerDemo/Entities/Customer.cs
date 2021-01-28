@@ -10,7 +10,7 @@ namespace GamerDemo
         public string TcNo { get; set; }
         public string CustomerName { get; set; }
         public string CustomerLastName { get; set; }
-        public int CustormerBirth { get; set; }
+        public DateTime CustormerBirth { get; set; }
         public int BuyingData { get; set; }
     }
 }
