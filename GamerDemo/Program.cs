@@ -22,7 +22,7 @@ namespace GamerDemo
             {
                 //CustomerId kullanıcı adı olarak kullandım TcNo hali hazırda ID olarak kullanmak için.
                 CustomerId = "legolas34",
-                TcNo = "22222222222",
+                TcNo = "22222222222hkjj",
                 CustomerName = "Fikri",
                 CustomerLastName = "Sağlar",
                 CustormerBirth = 1995,
